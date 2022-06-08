@@ -1,0 +1,205 @@
+(c1)(mob) Arrived
+Connection 1: c1 Occupied
+Connection 1: c1 Login
+Connection 1: c1 Performs Online Activity
+(c2)(pc) Arrived
+Connection 2: c2 Occupied
+Connection 2: c2 Login
+Connection 2: c2 Performs Online Activity
+(c3)(tap) Arrived and Waiting
+(c4)(pc2) Arrived and Waiting
+Connection 2: c2 Logged out
+Connection 2: c3 Occupied
+Connection 2: c3 Login
+Connection 2: c3 Performs Online Activity
+Connection 1: c1 Logged out
+Connection 1: c4 Occupied
+Connection 1: c4 Login
+Connection 1: c4 Performs Online Activity
+Connection 2: c3 Logged out
+Connection 1: c4 Logged out
+(mo)(pc) Arrived
+Connection 1: mo Occupied
+Connection 1: mo Login
+Connection 1: mo Performs Online Activity
+Connection 1: mo Logged out
+(32)(65) Arrived
+Connection 1: 32 Occupied
+Connection 1: 32 Login
+Connection 1: 32 Performs Online Activity
+Connection 1: 32 Logged out
+(lkj)(kj) Arrived
+Connection 1: lkj Occupied
+Connection 1: lkj Login
+Connection 1: lkj Performs Online Activity
+(jh)(hg) Arrived
+Connection 2: jh Occupied
+Connection 2: jh Login
+Connection 2: jh Performs Online Activity
+(cf)(gv) Arrived and Waiting
+(gj)(hj) Arrived and Waiting
+Connection 1: lkj Logged out
+Connection 1: cf Occupied
+Connection 1: cf Login
+Connection 1: cf Performs Online Activity
+Connection 2: jh Logged out
+Connection 2: gj Occupied
+Connection 2: gj Login
+Connection 2: gj Performs Online Activity
+Connection 2: gj Logged out
+Connection 1: cf Logged out
+(c1)(mop) Arrived
+Connection 1: c1 Occupied
+Connection 1: c1 Login
+Connection 1: c1 Performs Online Activity
+(22)(pc) Arrived
+Connection 2: 22 Occupied
+Connection 2: 22 Login
+Connection 2: 22 Performs Online Activity
+(33)(tap) Arrived and Waiting
+(44)(bbbbb) Arrived and Waiting
+Connection 2: 22 Logged out
+Connection 2: 33 Occupied
+Connection 2: 33 Login
+Connection 2: 33 Performs Online Activity
+Connection 2: 33 Logged out
+Connection 2: 44 Occupied
+Connection 2: 44 Login
+Connection 2: 44 Performs Online Activity
+Connection 2: 44 Logged out
+Connection 1: c1 Logged out
+(11)(22) Arrived
+Connection 1: 11 Occupied
+Connection 1: 11 Login
+Connection 1: 11 Performs Online Activity
+Connection 1: 11 Logged out
+(11)(22) Arrived
+Connection 1: 11 Occupied
+Connection 1: 11 Login
+Connection 1: 11 Performs Online Activity
+Connection 1: 11 Logged out
+(lk)(io) Arrived
+Connection 1: lk Occupied
+Connection 1: lk Login
+Connection 1: lk Performs Online Activity
+Connection 1: lk Logged out
+(sa)(ds) Arrived
+Connection 1: sa Occupied
+Connection 1: sa Login
+Connection 1: sa Performs Online Activity
+(de)(fr) Arrived
+Connection 2: de Occupied
+Connection 2: de Login
+Connection 2: de Performs Online Activity
+(gt)(dc) Arrived
+Connection 3: gt Occupied
+Connection 3: gt Login
+Connection 3: gt Performs Online Activity
+(xc)(wd) Arrived and Waiting
+(rg)(b) Arrived and Waiting
+Connection 3: gt Logged out
+Connection 3: xc Occupied
+Connection 3: xc Login
+Connection 3: xc Performs Online Activity
+Connection 3: xc Logged out
+Connection 3: rg Occupied
+Connection 3: rg Login
+Connection 3: rg Performs Online Activity
+Connection 3: rg Logged out
+Connection 2: de Logged out
+Connection 1: sa Logged out
+(kgkh)(qa) Arrived
+Connection 1: kgkh Occupied
+Connection 1: kgkh Login
+Connection 1: kgkh Performs Online Activity
+(de)(rfc) Arrived
+Connection 2: de Occupied
+Connection 2: de Login
+Connection 2: de Performs Online Activity
+(hgf)(fvs) Arrived
+Connection 3: hgf Occupied
+Connection 3: hgf Login
+Connection 3: hgf Performs Online Activity
+(asx)() Arrived
+Connection 4: asx Occupied
+Connection 4: asx Login
+Connection 4: asx Performs Online Activity
+(efv)(fvb) Arrived
+Connection 5: efv Occupied
+Connection 5: efv Login
+Connection 5: efv Performs Online Activity
+(htn)(my) Arrived
+Connection 6: htn Occupied
+Connection 6: htn Login
+Connection 6: htn Performs Online Activity
+Connection 1: kgkh Logged out
+Connection 4: asx Logged out
+Connection 5: efv Logged out
+Connection 2: de Logged out
+Connection 3: hgf Logged out
+Connection 6: htn Logged out
+(efw)(rfe) Arrived
+Connection 1: efw Occupied
+Connection 1: efw Login
+Connection 1: efw Performs Online Activity
+(er)(eg) Arrived
+Connection 2: er Occupied
+Connection 2: er Login
+Connection 2: er Performs Online Activity
+(ge)(erg) Arrived
+Connection 3: ge Occupied
+Connection 3: ge Login
+Connection 3: ge Performs Online Activity
+Connection 2: er Logged out
+(erg)(eg) Arrived
+Connection 2: erg Occupied
+Connection 2: erg Login
+Connection 2: erg Performs Online Activity
+(34)(46) Arrived
+Connection 4: 34 Occupied
+Connection 4: 34 Login
+Connection 4: 34 Performs Online Activity
+Connection 4: 34 Logged out
+Connection 2: erg Logged out
+Connection 1: efw Logged out
+Connection 3: ge Logged out
+(asdfg)(wq) Arrived
+Connection 1: asdfg Occupied
+Connection 1: asdfg Login
+Connection 1: asdfg Performs Online Activity
+(fev)(bth) Arrived
+Connection 2: fev Occupied
+Connection 2: fev Login
+Connection 2: fev Performs Online Activity
+(sx)(rgb) Arrived
+Connection 3: sx Occupied
+Connection 3: sx Login
+Connection 3: sx Performs Online Activity
+(xwd)(bth) Arrived
+Connection 4: xwd Occupied
+Connection 4: xwd Login
+Connection 4: xwd Performs Online Activity
+(wxsd)(bt) Arrived and Waiting
+Connection 2: fev Logged out
+Connection 2: wxsd Occupied
+Connection 2: wxsd Login
+Connection 2: wxsd Performs Online Activity
+(jynm)(vfr) Arrived and Waiting
+(dsc)(nthn) Arrived and Waiting
+Connection 4: xwd Logged out
+Connection 4: jynm Occupied
+Connection 4: jynm Login
+Connection 4: jynm Performs Online Activity
+Connection 1: asdfg Logged out
+Connection 1: dsc Occupied
+Connection 1: dsc Login
+Connection 1: dsc Performs Online Activity
+(fv)(jymk,) Arrived and Waiting
+Connection 1: dsc Logged out
+Connection 1: fv Occupied
+Connection 1: fv Login
+Connection 1: fv Performs Online Activity
+Connection 2: wxsd Logged out
+Connection 3: sx Logged out
+Connection 1: fv Logged out
+Connection 4: jynm Logged out
